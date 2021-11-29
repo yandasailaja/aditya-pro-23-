@@ -1,2 +1,2 @@
 # C23--project
-https://adityachethan.github.io/C23--project/
+https://yandasailaja.github.io/aditya-pro-23-/index.html
