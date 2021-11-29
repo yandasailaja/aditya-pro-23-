@@ -1,2 +1,2 @@
-# aditya-pro-23-
-adding image folder into GitHub repository
+# C23--project
+https://adityachethan.github.io/C23--project/
